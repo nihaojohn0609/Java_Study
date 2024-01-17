@@ -1,0 +1,11 @@
+Directory Contents: 
+C:\dev\Java17\IntelliJProjects\DirectoryFileChallenge\public
+C:\dev\Java17\IntelliJProjects\DirectoryFileChallenge\public\assets
+C:\dev\Java17\IntelliJProjects\DirectoryFileChallenge\public\assets\icons
+C:\dev\Java17\IntelliJProjects\DirectoryFileChallenge\public\assets\icons\index.txt
+C:\dev\Java17\IntelliJProjects\DirectoryFileChallenge\public\assets\icons\indexCopy.txt
+C:\dev\Java17\IntelliJProjects\DirectoryFileChallenge\public\assets\index.txt
+C:\dev\Java17\IntelliJProjects\DirectoryFileChallenge\public\assets\indexCopy.txt
+C:\dev\Java17\IntelliJProjects\DirectoryFileChallenge\public\index.txt
+C:\dev\Java17\IntelliJProjects\DirectoryFileChallenge\public\indexCopy.txt
+Generated: 2024-01-16T17:48:50.719192600
